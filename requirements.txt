@@ -1,0 +1,19 @@
+# supporting libraries
+bokeh
+holoviews
+numpy
+pandas
+pandas-bokeh
+plotly
+chart_studio
+pur
+requests
+rise
+
+# notebook
+jupyter
+jupyter-contrib-nbextensions
+jupyter-nbextensions-configurator
+jupyternotify
+ipython
+ipywidgets
