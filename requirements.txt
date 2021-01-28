@@ -3,7 +3,6 @@ bokeh
 holoviews
 numpy
 pandas
-pandas-bokeh
 plotly
 chart_studio
 pur
